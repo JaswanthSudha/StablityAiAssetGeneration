@@ -3,10 +3,11 @@ torch
 diffusers
 pillow
 opencv-python
-open3d
 numpy
 torchvision
 matplotlib
-transformers 
-dotenv
+transformers
+python-dotenv
+requests
 trimesh
+pyglet
