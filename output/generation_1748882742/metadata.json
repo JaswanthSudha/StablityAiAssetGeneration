@@ -1,0 +1,13 @@
+{
+  "prompt": "a single wooden chair, symmetrical from all sides",
+  "negative_prompt": "blurry,disorted,low-quality",
+  "model": "dreamlike-art/dreamlike-photoreal-2.0",
+  "steps": 20,
+  "guidance": 7.5,
+  "width": 512,
+  "height": 512,
+  "seed": 2895694022,
+  "post_processing": {},
+  "timestamp": 1748882742,
+  "image_path": "output/generation_1748882742/image_1748882742.png"
+}

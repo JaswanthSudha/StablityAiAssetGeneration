@@ -1,0 +1,12 @@
+{
+  "prompt": "A professional portrait of a middle-aged male architect, wearing a black turtleneck, studio lighting, 8k resolution, photorealistic, detailed facial features, neutral background, sharp focus, Canon EOS R5, 85mm lens, cinematic lighting, hyperrealistic, professional photography",
+  "negative_prompt": "blurry,disorted,low-quality",
+  "model": "dreamlike-art/dreamlike-photoreal-2.0",
+  "steps": 20,
+  "guidance": 7.5,
+  "width": 512,
+  "height": 512,
+  "seed": 346860944,
+  "post_processing": {},
+  "timestamp": 1748934287
+}

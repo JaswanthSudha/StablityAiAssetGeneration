@@ -1,0 +1,4 @@
+./working_good
+.env
+user_data.db
+__pycache__
