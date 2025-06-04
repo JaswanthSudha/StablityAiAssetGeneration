@@ -1,4 +1,5 @@
-./working_good
+working_good
+output
 .env
 user_data.db
 __pycache__
