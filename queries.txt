@@ -1,0 +1,54 @@
+Compovision:(General)
+    "A surreal painting of a futuristic city" 
+    "A fantasy forest with glowing mushrooms"
+RunAwayMl:(Realistic)
+    "A high-resolution photo of a mountain landscape" 
+    "A realistic portrait of a young woman"
+DreamLike(For Imaginative Concepts)
+    "A dreamlike castle floating in the clouds" 
+    "A surreal underwater city with glowing lights" 
+2. Environment Art
+"abandoned underground lab, eerie lighting, broken machinery, post-apocalyptic environment"
+"enchanted forest clearing with magical ruins, glowing plants, fantasy setting, concept art"
+3. Items / Weapons
+"ancient magical sword with glowing runes, ornate handle, floating in a dark void, item concept art"
+"sci-fi plasma rifle, modular design, clean white and blue finish, game item illustration"
+
+
+realistic-prompts:
+   1.A professional portrait of a middle-aged male architect, wearing a black turtleneck, studio lighting, 8k resolution, photorealistic, detailed facial features, neutral background, sharp focus, Canon EOS R5, 85mm lens, cinematic lighting, hyperrealistic, professional photography
+   2.A photorealistic portrait of a female explorer in outdoor gear, standing on a mountain ridge, golden hour lighting, crisp details, volumetric lighting, ultra-detailed, professional photography, 8k resolution, Nikon Z9, photorealistic textures
+   3.A photorealistic vintage leather armchair with brass studs, sitting in a sunlit living room, wooden floor, ultra-detailed textures, volumetric lighting, 8k resolution, photorealistic materials, professional product photography, sharp focus
+   4.A classic sports car, metallic red paint, parked on a coastal road at sunset, reflective surfaces, photorealistic materials, studio lighting, 8k resolution, professional automotive photography, crisp details, perfect proportions
+   5.A photorealistic siberian husky dog sitting upright on grass, facing forward, natural lighting, detailed fur texture, 8k resolution, ultra-detailed, high-end wildlife photography, sharp focus, National Geographic style, perfect proportions
+   6.A photorealistic elephant standing in profile against a neutral background, studio lighting, detailed skin texture, ultra-detailed, 8k resolution, perfect proportions, photorealistic, professional wildlife photography
+
+Furniture Objects
+1. A photorealistic modern office chair with ergonomic design, black mesh backrest and leather seat, standing on a polished concrete floor, studio lighting, detailed fabric texture, perfect proportions, 8k resolution, ultra-detailed product photography, sharp focus, neutral background, professional product catalog style
+
+2. A photorealistic wooden dining table with walnut finish, slightly worn edges revealing natural grain texture, placed in a minimalist room with indirect natural lighting, 8k resolution, photorealistic materials, extreme detail, sharp focus, perfect proportions, 45-degree angle view, professional furniture photography
+
+3. A photorealistic glass coffee table with brushed steel frame, sitting on a beige carpet, soft studio lighting, reflective surfaces, ultra-detailed textures, 8k resolution, photorealistic materials, perfect geometric proportions, professional product photography, sharp focus
+
+4. A photorealistic vintage bookshelf with weathered oak finish, filled with leather-bound books, photographed straight-on, soft diffused lighting highlighting wood grain texture, ultra-detailed, 8k resolution, photorealistic materials, professional interior photography
+
+Small Objects
+5. A photorealistic luxury fountain pen with gold trim and blue lacquer finish, resting on a black leather desk pad, studio lighting with subtle reflection, extreme macro details of nib and materials, 8k resolution, ultra-detailed textures, professional product photography, sharp focus
+
+6. A photorealistic professional baseball bat made of polished maple wood, grain texture visible, standing upright against a neutral gray background, studio lighting highlighting the wood finish, ultra-detailed, 8k resolution, product photography, perfect proportions, sharp focus
+
+7. A photorealistic mechanical wristwatch with stainless steel case and black leather strap, placed on white marble, macro studio lighting showing intricate dial details, reflective surfaces, ultra-detailed, 8k resolution, photorealistic materials, professional product photography
+
+8. A photorealistic ceramic coffee mug with matte black finish and wooden handle, steam rising from dark coffee inside, sitting on a white countertop, natural morning light from side window, detailed surface texture, 8k resolution, ultra-detailed, professional product photography, sharp focus
+
+
+
+Kitchen/Household Items
+
+9. A photorealistic chef's knife with Damascus steel pattern blade and polished wooden handle, resting on a cutting board, studio lighting highlighting the metal blade pattern, ultra-detailed materials, 8k resolution, photorealistic textures, professional culinary photography, sharp focus
+
+10. A photorealistic glass vase with geometric design, containing white roses, sitting on a wooden side table, natural window lighting creating subtle shadows and reflections, detailed glass texture, 8k resolution, ultra-detailed, professional interior photography, sharp focus
+
+11. A photorealistic vintage typewriter with worn metal keys and black enamel finish, placed on a wooden desk, dramatic side lighting highlighting mechanical details, dust particles visible in light beams, ultra-detailed, 8k resolution, photorealistic materials, professional photography
+
+12. A photorealistic pair of premium leather shoes, burnished brown finish, placed on hardwood floor, studio lighting emphasizing leather texture and stitching details, perfect proportions, 8k resolution, ultra-detailed craftsmanship, professional product photography, sharp focus
