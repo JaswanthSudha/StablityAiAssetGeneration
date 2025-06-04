@@ -21,6 +21,9 @@ from auth import (init_db, create_user, login_user, init_auth_state, is_authenti
                  set_authenticated, logout, get_user_projects, create_project, 
                  save_generation, get_project, get_project_generations, delete_project)
 
+# Import page modules
+from pages import login, signup, project_dashboard
+
 # Load environment variables from .env file (for API key)
 load_dotenv()
 
@@ -763,30 +766,30 @@ def main_streamlit():
             # Update session state when nav changes from the radio buttons
             if nav != st.session_state['nav']:
                 st.session_state['nav'] = nav
-                st.rerun()  # Changed from st.experimental_rerun()
+                st.rerun()
 
             # Logout button
             if st.button("Logout"):
                 logout()
                 st.session_state['nav'] = "Login"
-                st.rerun()  # Changed from st.experimental_rerun()
+                st.rerun()
 
         else:
             nav = st.radio("Account", ["Login", "Sign Up"],
                           index=0 if st.session_state['nav'] == "Login" else 1)
             if nav != st.session_state['nav']:
                 st.session_state['nav'] = nav
-                st.rerun()  # Changed from st.experimental_rerun()
+                st.rerun()
     
     # Main content based on navigation
     if not is_authenticated():
         if st.session_state['nav'] == "Login":
-            login_page()
+            login.show()
         else:  # Sign Up
-            signup_page()
+            signup.show()
     else:
         if st.session_state['nav'] == "Project Dashboard":
-            projects_dashboard()
+            project_dashboard.show()
         elif st.session_state['nav'] == "Current Project" and st.session_state.get('current_project_id'):
             project_view(st.session_state['current_project_id'])
         else:  # Image Generator
