@@ -116,7 +116,7 @@ def generate_3d_model(image_path, output_path=None, visualize=True):
     """Generate a 3D model from an image using the Stability AI API"""
     
     # Get API key from environment variable
-    api_key = os.getenv("STABILITY_API_KEY") or "sk-kGzCmhtDfkylRJjUClfNGYVxhpipWEc69KeyJzfeTMMwiXC4"
+    api_key = os.getenv("STABILITY_API_KEY")
     
     if not api_key:
         raise ValueError("API key not found. Please set the STABILITY_API_KEY environment variable.")
